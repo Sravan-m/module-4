@@ -1,0 +1,15 @@
+.abo{
+	margin: 4%;
+	font-size: 18px;
+}
+h4{
+	color: brown;
+}
+p{
+	font-size: 18px;
+	color: olivedrab;
+}
+.rect{
+	list-style-type: disc;
+	color: peru;
+}
